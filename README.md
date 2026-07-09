@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="Lovely Beats Banner"/>
+<img src="./assets/banner.jpg" alt="Lovely Beats Banner" width="100%"/>
 
-<br><br>
+<br>
 
-<img src="assets/logo.png" width="140" alt="Lovely Beats Logo"/>
+<img src="./assets/logo.png" alt="Lovely Beats Logo" width="140"/>
 
 # 🎵 Lovely Beats
 
@@ -12,85 +12,97 @@
 
 Fast • Lightweight • Modern • High Quality Audio
 
-<p>
+<p align="center">
+
+<a href="https://github.com/lovelyofficial/Lovely-Beats/releases/latest">
+<img src="https://img.shields.io/badge/⬇️%20Download-Latest%20APK-success?style=for-the-badge">
+</a>
 
 <img src="https://img.shields.io/github/v/release/lovelyofficial/Lovely-Beats?style=for-the-badge">
 
 <img src="https://img.shields.io/github/downloads/lovelyofficial/Lovely-Beats/total?style=for-the-badge">
 
-<img src="https://img.shields.io/github/license/lovelyofficial/Lovely-Beats?style=for-the-badge">
-
 <img src="https://img.shields.io/github/stars/lovelyofficial/Lovely-Beats?style=for-the-badge">
 
 <img src="https://img.shields.io/github/issues/lovelyofficial/Lovely-Beats?style=for-the-badge">
 
+<img src="https://img.shields.io/github/license/lovelyofficial/Lovely-Beats?style=for-the-badge">
+
 </p>
-
-<a href="https://github.com/lovelyofficial/Lovely-Beats/releases/latest">
-
-<img src="https://img.shields.io/badge/⬇️-Download%20Latest%20APK-success?style=for-the-badge">
-
-</a>
 
 </div>
 
 ---
 
+# 🎧 About
+
+**Lovely Beats** is a modern Android music application designed to provide a fast, lightweight and beautiful music experience.
+
+Whether you're streaming your favorite songs or downloading music for offline listening, Lovely Beats delivers a smooth and enjoyable experience.
+
+---
+
 # ✨ Features
 
-- 🎵 Unlimited Music Streaming
+- 🎵 Music Streaming
 - 📥 Fast Music Downloads
-- 💾 Downloads Automatically Saved
+- 💾 Auto Save Downloads
 - ⚡ Fast & Lightweight
 - 🎧 High Quality Audio
-- 🌙 Beautiful Dark Theme
+- 🌙 Beautiful Dark UI
 - ❤️ Favorite Songs
-- 📂 Library Management
+- 📂 Music Library
 - 🔍 Smart Search
-- ▶️ Powerful Music Player
+- ▶️ Modern Music Player
+- 📜 Queue Support
+- 🔁 Repeat & Shuffle
 - 📶 Optimized for YouTube Mobile Package
-- 🚀 Better Performance
+- 🚀 Performance Improvements
 - 🛠 Regular Updates
 
 ---
 
 # 📱 Screenshots
 
-## 🏠 Home
+<div align="center">
 
-<p align="center">
-<img src="assets/screenshots/home.png" width="280"/>
-</p>
+### 🏠 Home
 
----
+<img src="./assets/screenshots/home.png" width="260"/>
 
-## 🔍 Search
+<br><br>
 
-<p align="center">
-<img src="assets/screenshots/search.png" width="280"/>
-</p>
+### 🔍 Search
 
----
+<img src="./assets/screenshots/search.png" width="260"/>
 
-## 🎵 Player
+<br><br>
 
-<p align="center">
+### 🎵 Player
 
-<img src="assets/screenshots/player.png" width="250"/>
+<img src="./assets/screenshots/player.png" width="260"/>
 
-<img src="assets/screenshots/player2.png" width="250"/>
+<img src="./assets/screenshots/player2.png" width="260"/>
 
-</p>
+</div>
 
 ---
 
 # 📥 Installation
 
-1. Download the latest APK.
-2. Enable **Install Unknown Apps**.
-3. Install the application.
-4. Open **Lovely Beats**.
-5. Enjoy your music ❤️
+### Download
+
+Download the latest APK from the Releases page.
+
+https://github.com/lovelyofficial/Lovely-Beats/releases/latest
+
+### Install
+
+1. Download APK
+2. Allow **Install Unknown Apps**
+3. Install
+4. Open Lovely Beats
+5. Enjoy ❤️
 
 ---
 
@@ -103,43 +115,62 @@ Fast • Lightweight • Modern • High Quality Audio
 
 ---
 
-# 🚀 Latest Release
+# 🚀 Performance
 
-Download the newest version from:
+- ⚡ Faster Downloads
+- 💾 Automatic Download Saving
+- 🚀 Improved Stability
+- 🎵 Better Audio Experience
+- 📶 Optimized Network Usage
 
-### 👉 https://github.com/lovelyofficial/Lovely-Beats/releases/latest
+---
+
+# 📂 Repository Structure
+
+```text
+Lovely-Beats/
+│
+├── README.md
+├── LICENSE
+├── CHANGELOG.md
+├── SECURITY.md
+├── SUPPORT.md
+│
+├── assets/
+│   ├── banner.jpg
+│   ├── logo.png
+│   └── screenshots/
+│       ├── home.png
+│       ├── search.png
+│       ├── player.png
+│       └── player2.png
+```
 
 ---
 
 # ❤️ Support
 
-Need help?
+If you discover a bug or have a suggestion,
 
-Open a GitHub Issue or contact us.
+please create an Issue on GitHub.
 
 ---
 
-# 📜 Project Information
+# 📄 License
 
-| Item | Value |
-|------|-------|
-| App Name | Lovely Beats |
-| Platform | Android |
-| Language | Java |
-| Version | v1.0.0 |
-| License | All Rights Reserved |
+This project is licensed under the terms specified in the LICENSE file.
 
 ---
 
 # ⭐ Support This Project
 
-If you like **Lovely Beats**, don't forget to
+If you enjoy **Lovely Beats**,
 
 ⭐ Star this repository
 
-❤️ Share with your friends
+📥 Download the latest release
 
-🚀 Download the latest release
+❤️ Share it with your friends
 
 ---
 

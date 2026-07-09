@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lovelyofficial/Lovely-Beats/main/assets/banner.jpg" alt="Lovely Beats Banner" width="100%">
+<img src="./assets/banner.jpg" alt="Lovely Beats Banner" width="100%">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/lovelyofficial/Lovely-Beats/main/assets/logo.png" alt="Lovely Beats Logo" width="120">
+<img src="./assets/logo.png" alt="Lovely Beats Logo" width="120">
 
 # 🎵 Lovely Beats
 

@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="Lovely Beats Banner" width="100%">
+<img src="https://raw.githubusercontent.com/lovelyofficial/Lovely-Beats/main/assets/banner.jpg" alt="Lovely Beats Banner" width="100%">
 
 <br><br>
 
-<img src="./assets/logo.png" alt="Lovely Beats Logo" width="120">
+<img src="https://raw.githubusercontent.com/lovelyofficial/Lovely-Beats/main/assets/logo.png" alt="Lovely Beats Logo" width="120">
 
 # 🎵 Lovely Beats
 
@@ -40,10 +40,10 @@ Fast • Lightweight • Modern • High Quality Audio
 ## 📱 Screenshots
 
 <p align="center">
-<img src="./assets/screenshots/home.jpg" width="230">
-<img src="./assets/screenshots/search.jpg" width="230">
-<img src="./assets/screenshots/player.jpg" width="230">
-<img src="./assets/screenshots/player2.jpg" width="230">
+<img src="https://raw.githubusercontent.com/lovelyofficial/Lovely-Beats/main/assets/screenshots/home.jpg" width="230">
+<img src="https://raw.githubusercontent.com/lovelyofficial/Lovely-Beats/main/assets/screenshots/search.jpg" width="230">
+<img src="https://raw.githubusercontent.com/lovelyofficial/Lovely-Beats/main/assets/screenshots/player.jpg" width="230">
+<img src="https://raw.githubusercontent.com/lovelyofficial/Lovely-Beats/main/assets/screenshots/player2.jpg" width="230">
 </p>
 
 ---

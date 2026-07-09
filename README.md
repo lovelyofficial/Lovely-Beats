@@ -40,10 +40,10 @@ Fast • Lightweight • Modern • High Quality Audio
 ## 📱 Screenshots
 
 <p align="center">
-<img src="./assets/screenshots/home.png" width="230">
-<img src="./assets/screenshots/search.png" width="230">
-<img src="./assets/screenshots/player.png" width="230">
-<img src="./assets/screenshots/player2.png" width="230">
+<img src="./assets/screenshots/home.jpg" width="230">
+<img src="./assets/screenshots/search.jpg" width="230">
+<img src="./assets/screenshots/player.jpg" width="230">
+<img src="./assets/screenshots/player2.jpg" width="230">
 </p>
 
 ---
